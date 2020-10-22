@@ -33,8 +33,9 @@ New form control attributes like a placeholder, autofocus, email, URL, required,
 1. Video & Audio
   --> Video and audio are the new tags which allow to embed a video in the website. YouTube also declare video embed by giving the code to embed for their videos. It helps the         web to be more involved with multimedia. A new tag is also available in HTML5 and that is audio tag. Which is used to embed any audion in the web.<br/>
       <b> Example:</b> Video example:</br>
-      
-     <img src="https://github.com/ravigithub09/Microservices/blob/master/limit-service/img/microservices.PNG" width="500" title="Microservices" ><br/>
+      <center>
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/video%20ex.PNG" width="700" height="150" title="video" ><br/>
+  </center>
 
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
