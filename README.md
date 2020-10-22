@@ -43,17 +43,42 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
   
   2. <b>nav</b>
      The nav element is used for the part of a internet site that links to different pages at the website. The hyperlinks can be organized a number of approaches. below, the          hyperlinks are displayed inside paragraph factors. An unordered list can also be used.<br/>
-     
+     <b> Example:</b> Nav example:</br>
      <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/nav%20ex.PNG" width="500" height="200" title="nav" >
       </p>
   
   3. <b>header</b><br/>
      The header element can be used to institution collectively introductory factors on a website, such as a business enterprise brand, navigation objects, and occasionally, a        search form.<br/>
-     
+     <b> Example:</b> Header example:</br>
      <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/header%20ex.PNG" width="500" height="200" title="header">
       </p>
+      
+  4. <b>canvas</b><br/>
+     Canvas is a tag of HTML which is newly introduced in HTML5. It is used to draw the images on the fly. It can be used for visual images, rendering graphs, game graphics.         <br/>
+     <b> Example:</b> Canvas example:</br>
+     <p align="center">
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/canvas%20ex.PNG" width="500" height="200" title="canvas">
+      </p>
+      
+  5. <b>footer</b><br/>
+     Footer is a tag, used to define the footer of a document or a section. Usually it contains the information about author and copyright etc. Address tag may be used to mark        up the contact information in the footer.  <br/>
+     <b>Note:</b> A document or section can have more than one footer.<br/>
+     <b> Example:</b> Footer example:<br/>
+     <p align="center">
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/footer%20ex.PNG" width="500" height="200" title="canvas">
+      </p>
+      
+  6. <b>New type for HTML input Tag</b><br/>
+     Input is an attribute which is an old attribute but in HTML, it is reintroduced with new values like email, month, number, range, search, tel, color, week, url, time, date,     datetime-local etc.These are the new values which can be contain by the input tag.<br/>
+       1. <b>ContentEditable</b><br/>
+              It is an attribute which is used to permit the user to edit the content. It creates What You See What You Get so easy. Content will be editable by clicking on it.
+       2. <b>Progress</b><br/>
+              This tag is used to check the progress of a task during execution of that. Progress tag can used with the conjuction of JavaScript. It is like progress bar.<br/>
+              <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/footer%20ex.PNG" width="300" height="200" title="canvas">
+                 </p>
 
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
