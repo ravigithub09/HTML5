@@ -29,7 +29,13 @@ New form control attributes like a placeholder, autofocus, email, URL, required,
 13. Web Sockets
 14. Web Workers
 
--->The other technology that gets associated with HTML5 is WebGL. WebGL makes it possible to display amazing real-time 3D graphics in your browser.  WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within any compatible Web browser without the use of plug-ins.
+-->The other technology that gets associated with HTML5 is WebGL. WebGL makes it possible to display amazing real-time 3D graphics in your browser.  WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within any compatible Web browser without the use of plug-ins.<br/>
+1. Video & Audio
+  --> Video and audio are the new tags which allow to embed a video in the website. YouTube also declare video embed by giving the code to embed for their videos. It helps the         web to be more involved with multimedia. A new tag is also available in HTML5 and that is audio tag. Which is used to embed any audion in the web.<br/>
+      <b> Example:</b> Video example:</br>
+      
+     <img src="https://github.com/ravigithub09/Microservices/blob/master/limit-service/img/microservices.PNG" width="500" title="Microservices" ><br/>
+
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
 https://www.admecindia.co.in/web-design/10-new-features-html5-examples/</b> 
