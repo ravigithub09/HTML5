@@ -38,7 +38,7 @@ New form control attributes like a placeholder, autofocus, email, URL, required,
   </center>
     <b> Example:</b> Audio example:</br>
       <center>
-     <img src="https://github.com/ravigithub09/HTML5/blob/master/audio%20ex.PNG" width="700" height="150" title="video" ><br/>
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/Audio%20ex.PNG" width="700" height="150" title="Audio" ><br/>
   </center>
 
 # Reference
