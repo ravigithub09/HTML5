@@ -48,12 +48,12 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
      <img src="https://github.com/ravigithub09/HTML5/blob/master/nav%20ex.PNG" width="500" height="200" title="nav" >
       </p>
   
-  3. <b>header</b>
+  3. <b>header</b><br/>
      The header element can be used to institution collectively introductory factors on a website, such as a business enterprise brand, navigation objects, and occasionally, a        search form.<br/>
      
      <p align="center">
-     <img src="https://github.com/ravigithub09/HTML5/blob/master/header%20ex.PNG" width="500" height="200" title="header" >
-    </p>
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/header%20ex.PNG" width="500" height="200" title="header">
+      </p>
 
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
