@@ -63,7 +63,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
       </p>
       
   5. <b>footer</b><br/>
-     Footer is a tag, used to define the footer of a document or a section. Usually it contains the information about author and copyright etc. Address tag may be used to mark        up the contact information in the footer.  <br/>
+     Footer is a tag, used to define the footer of a document or a section. Usually it contains the information about author and copyright etc. Address tag may be used to mark        up the contact information in the footer.<br/>
      <b>Note:</b> A document or section can have more than one footer.<br/>
      <b> Example:</b> Footer example:<br/>
      <p align="center">
@@ -76,9 +76,31 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
               It is an attribute which is used to permit the user to edit the content. It creates What You See What You Get so easy. Content will be editable by clicking on it.
        2. <b>Progress</b><br/>
               This tag is used to check the progress of a task during execution of that. Progress tag can used with the conjuction of JavaScript. It is like progress bar.<br/>
-              <p align="center">
-               <img src="https://github.com/ravigithub09/HTML5/blob/master/progress%20ex.PNG" width="300" height="200" title="progress">
+             <b> Example:</b> Progress example:<br/>
+             <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/progress%20ex.PNG" width="1000" height="150" title="progress">
                  </p>
+       3. <b>section</b><br/>
+             Section tag is used to divide a document or in parts or sections. For example: An article can have many sections like header, footer, latest news and section for                main content etc.
+       4. <b>main</b><br/>
+             main is a tag which is used to contain the main content of the page. More than one main tag is not accepted in the document and this tag can not be inside in                    article, aside, footer, header tags. It does not include the navigation bar, header and footer.
+  7. <b>Figure and Figcaption</b><br/>
+        Earlier there was no way to of figure as well as give caption to that figure. But, with the introduction of figure as well as figcaption, it has become semantically              possible to insert an image in a page with its caption.<br/>
+        <b> Example:</b> Figure and Figcaption example:<br/>
+           <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/fugure%20ex.PNG" width="500" height="150" title="figure and figcaption">
+                </p>      
+                
+  8. <b>Placeholders</b><br/>
+        This feature in html5 has provided the assistance to many new users. It gives the hint to what is to be inserted in a particular field of the form. It is there when the          user has not started writing something in the input field. It is sometime also called dummy text. It is present temporarily.<br/>
+        
+ 9. <b>Required Attribute</b><br/>
+       It is another important features that is there in the form tag. It helps in gathering of all the mandatory information that is there in the form. Without this it will not        be possible to submit the form. It is boolean attribute. The form will all the required fields being filled will be allowed to submit.<br/>
+       <b>Note:</b>It works with text, url, email, password, date, numbers, checkbox, file etc.<br/>
+       
+ 10. <b>Preload Videos</b><br/>
+        It is an amazing feature for uploading the videos. It specifies the way to upload the video along with the loading of the page. This helps the browser in knowing about           the improvisation of the user experience of the webpage. Though this is not a too mandatory features that is too be added. It helps in better representation of the page.
+            
 
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
