@@ -29,17 +29,31 @@ New form control attributes like a placeholder, autofocus, email, URL, required,
 13. Web Sockets
 14. Web Workers
 
--->The other technology that gets associated with HTML5 is WebGL. WebGL makes it possible to display amazing real-time 3D graphics in your browser.  WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within any compatible Web browser without the use of plug-ins.<br/>
-1. Video & Audio
-  --> Video and audio are the new tags which allow to embed a video in the website. YouTube also declare video embed by giving the code to embed for their videos. It helps the         web to be more involved with multimedia. A new tag is also available in HTML5 and that is audio tag. Which is used to embed any audion in the web.<br/>
+The other technology that gets associated with HTML5 is WebGL. WebGL makes it possible to display amazing real-time 3D graphics in your browser.  WebGL (Web Graphics Library) is a JavaScript API for rendering interactive 3D computer graphics and 2D graphics within any compatible Web browser without the use of plug-ins.<br/>
+1. <b>Video & Audio</b>
+   Video and audio are the new tags which allow to embed a video in the website. YouTube also declare video embed by giving the code to embed for their videos. It helps the         web to be more involved with multimedia. A new tag is also available in HTML5 and that is audio tag. Which is used to embed any audion in the web.<br/>
      <br/> <b> Example:</b> Video example:</br>
-      <center>
-     <img src="https://github.com/ravigithub09/HTML5/blob/master/video%20ex.PNG" width="700" height="150" title="video" ><br/>
-  </center>
+      <p align="center">
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/video%20ex.PNG" width="700" height="150" title="video" >
+  </p>
     <b> Example:</b> Audio example:</br>
-      <center>
-     <img src="https://github.com/ravigithub09/HTML5/blob/master/Audio%20ex.PNG" width="700" height="150" title="Audio" ><br/>
-  </center>
+      <p align="center">
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/Audio%20ex.PNG" width="700" height="150" title="Audio" >
+    </p>
+  
+  2. <b>nav</b>
+     The nav element is used for the part of a internet site that links to different pages at the website. The hyperlinks can be organized a number of approaches. below, the          hyperlinks are displayed inside paragraph factors. An unordered list can also be used.<br/>
+     
+     <p align="center">
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/nav%20ex.PNG" width="500" height="200" title="nav" >
+      </p>
+  
+  3. <b>header</b>
+     The header element can be used to institution collectively introductory factors on a website, such as a business enterprise brand, navigation objects, and occasionally, a        search form.<br/>
+     
+     <p align="center">
+     <img src="https://github.com/ravigithub09/HTML5/blob/master/header%20ex.PNG" width="500" height="200" title="header" >
+    </p>
 
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
