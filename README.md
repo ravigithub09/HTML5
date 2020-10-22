@@ -77,7 +77,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
        2. <b>Progress</b><br/>
               This tag is used to check the progress of a task during execution of that. Progress tag can used with the conjuction of JavaScript. It is like progress bar.<br/>
               <p align="center">
-               <img src="https://github.com/ravigithub09/HTML5/blob/master/footer%20ex.PNG" width="300" height="200" title="canvas">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/progress%20ex.PNG" width="300" height="200" title="progress">
                  </p>
 
 # Reference
