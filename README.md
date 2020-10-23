@@ -145,7 +145,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
        Now the web developers can make the width of the images as zero. This feature is of great hel pwhen there is no need to show them to the users such as while tracking the        image files as otherwise it would take more space. It is advisable to use the zero width images with the alt tag that is empty.
           <b> Example:</b> Zero width images example:<br/>
               <p align="center">
-               <img src="https://github.com/ravigithub09/HTML5/blob/master/0-width-img.PNG" width="900" height="200" title="0-width-image">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/0-width-img.PNG" width="1100" height="200" title="0-width-image">
                 </p>      
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
