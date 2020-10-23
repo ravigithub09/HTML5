@@ -135,7 +135,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
        So, it is regenerated each time the page refreshes. It is great features as it can be used to increase the security of the content of the page. This helps in stating and        providing the authority to the webpage to specify a particular script or style.
               <b> Example:</b> Cryptographic nonces example:<br/>
               <p align="center">
-               <img src="https://github.com/ravigithub09/HTML5/blob/master/cryptographic%20ex.PNG" width="500" height="200" title="Cryptographic nonces">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/cryptographic%20ex.PNG" width="500" height="150" title="Cryptographic nonces">
                 </p>   
                 
 18. <b>Reverse Links</b><br/>
@@ -145,7 +145,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
        Now the web developers can make the width of the images as zero. This feature is of great hel pwhen there is no need to show them to the users such as while tracking the        image files as otherwise it would take more space. It is advisable to use the zero width images with the alt tag that is empty.
           <b> Example:</b> Zero width images example:<br/>
               <p align="center">
-               <img src="https://github.com/ravigithub09/HTML5/blob/master/0-width-img.PNG" width="500" height="200" title="0-width-image">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/0-width-img.PNG" width="900" height="200" title="0-width-image">
                 </p>      
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
