@@ -35,8 +35,9 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
      <br/> <b> Example:</b> Video example:</br>
       <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/video%20ex.PNG" width="700" height="150" title="video" >
-  </p>
-    <b> Example:</b> Audio example:</br>
+  </p>  <br/>
+    In <b>video</b> tag we have some attributes like controls,autoplay,preload. we can also set height and width for video frame. Inside Video tag we have sub tag as                <b>source</b> in side that we need to give type of video files i.e. extension of the file. <br/>
+       <b> Example:</b> Audio example:</br>    
       <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/Audio%20ex.PNG" width="700" height="150" title="Audio" >
     </p>
@@ -63,7 +64,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
       </p>
       
   5. <b>footer</b><br/>
-     Footer is a tag, used to define the footer of a document or a section. Usually it contains the information about author and copyright etc. Address tag may be used to mark        up the contact information in the footer.  <br/>
+     Footer is a tag, used to define the footer of a document or a section. Usually it contains the information about author and copyright etc. Address tag may be used to mark        up the contact information in the footer.<br/>
      <b>Note:</b> A document or section can have more than one footer.<br/>
      <b> Example:</b> Footer example:<br/>
      <p align="center">
@@ -76,10 +77,77 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
               It is an attribute which is used to permit the user to edit the content. It creates What You See What You Get so easy. Content will be editable by clicking on it.
        2. <b>Progress</b><br/>
               This tag is used to check the progress of a task during execution of that. Progress tag can used with the conjuction of JavaScript. It is like progress bar.<br/>
-              <p align="center">
-               <img src="https://github.com/ravigithub09/HTML5/blob/master/footer%20ex.PNG" width="300" height="200" title="canvas">
+             <b> Example:</b> Progress example:<br/>
+             <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/progress%20ex.PNG" width="1000" height="150" title="progress">
                  </p>
-
+       3. <b>section</b><br/>
+             Section tag is used to divide a document or in parts or sections. For example: An article can have many sections like header, footer, latest news and section for                main content etc.
+       4. <b>main</b><br/>
+             main is a tag which is used to contain the main content of the page. More than one main tag is not accepted in the document and this tag can not be inside in                    article, aside, footer, header tags. It does not include the navigation bar, header and footer.
+  7. <b>Figure and Figcaption</b><br/>
+        Earlier there was no way to of figure as well as give caption to that figure. But, with the introduction of figure as well as figcaption, it has become semantically              possible to insert an image in a page with its caption.<br/>
+        <b> Example:</b> Figure and Figcaption example:<br/>
+           <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/fugure%20ex.PNG" width="500" height="150" title="figure and figcaption">
+                </p>      
+                
+  8. <b>Placeholders</b><br/>
+        This feature in html5 has provided the assistance to many new users. It gives the hint to what is to be inserted in a particular field of the form. It is there when the          user has not started writing something in the input field. It is sometime also called dummy text. It is present temporarily.<br/>
+        
+ 9. <b>Required Attribute</b><br/>
+       It is another important features that is there in the form tag. It helps in gathering of all the mandatory information that is there in the form. Without this it will not        be possible to submit the form. It is boolean attribute. The form will all the required fields being filled will be allowed to submit.<br/>
+       <b>Note:</b>It works with text, url, email, password, date, numbers, checkbox, file etc.<br/>
+       
+ 10. <b>Preload Videos</b><br/>
+        It is an amazing feature for uploading the videos. It specifies the way to upload the video along with the loading of the page. This helps the browser in knowing about           the improvisation of the user experience of the webpage. Though this is not a too mandatory features that is too be added. It helps in better representation of the page.
+        
+ 11. <b>Display Control</b><br/>
+        Display attribute helps in specifying the behaviour of the elements. When this property is not specified, then the default values are taken.
+       
+ 12. <b>Regular Expressions</b><br/>     
+        With the help of regular expression we can add the particular pattern as an input. Such as the most common pattern that is used is [A-Za-z] {5,11}. It accepts the               uppercase as well as lowercase letters. Along with this it states that the minimum length of characters is 5 and the maximum length of characters that is acceptable is           11.
+ 13. <b>Accessibility</b><br/>
+        With the invent of HTML5 it has played a great role in providing the best of the accessibility features to a website. This has made the use of website simplified. the           people of almost an kind of disability such as visually impaired, color blind, low vision, blind etc can have access to the websites that have been designed with the             accessibility features of HTML5.
+        <b>Example:</b>Such as in forms the validation is the best example of providing accessibility. Labels should be properly marked.
+        
+ 14. <b>Inline elements</b><br/>
+        To keep code up to mark, semantically these inline elements help alot :<br/>
+                1. mark – It highlights the content that is marked in some or the other way.
+                2. time – This helps in adding current time as well as date to the webpage.
+                3. meter – It helps in indicating that how much space in the storage disk is still there.
+                4. progress bar – It helps in knowing the progress of the task that has been assigned for its completion.
+            
+ 15. <b>Dynamic Page Support</b><br/>
+        Now a days there is need of dynamic as well as interactive websites rather than static websites. Here are enormous features that provide the dynamic touch to the website         :<br/>
+                1. mark – It highlights the content that is marked in some or the other way.
+                2. time – This helps in adding current time as well as date to the webpage.
+                3. meter – It helps in indicating that how much space in the storage disk is still there.
+                4. progress bar – It helps in knowing the progress of the task that has been assigned for its completion.<br/>                
+                <b>Note:</b>many more such features are there to make the page dynamic.
+ 16. <b>Email attribute</b><br/>
+        When in a form we write the type as email, then browser by itself gets the instruction from the code to write an email with the proper as well as valid format of writing         an email. This was not possible in the earlier browsers.
+       <b> Example:</b> Email attribute example:<br/>
+       <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/email%20ex.PNG" width="500" height="400" title="email">
+                </p>   
+17. <b>Cryptographic nonces</b><br/>
+       In this newer version of HTML, we can add cryptographic nonces to all the styles as well as scripts. Here, we usually use nonce attribute inside script and style tag.            This nonce tag basically generates a random number which is for one time use only.<br/>
+       So, it is regenerated each time the page refreshes. It is great features as it can be used to increase the security of the content of the page. This helps in stating and        providing the authority to the webpage to specify a particular script or style.
+              <b> Example:</b> Cryptographic nonces example:<br/>
+              <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/cryptographic%20ex.PNG" width="500" height="150" title="Cryptographic nonces">
+                </p>   
+                
+18. <b>Reverse Links</b><br/>
+    <b>rev<b> attribute is back in action again with the use of HTML 5.1. It basically allows the web users to again use the link and a or anchor tag elements. It explains the         relationship between the current document as well as the linked document but in the opposite direction.
+  
+19. <b>Zero width images</b><br/>
+       Now the web developers can make the width of the images as zero. This feature is of great hel pwhen there is no need to show them to the users such as while tracking the        image files as otherwise it would take more space. It is advisable to use the zero width images with the alt tag that is empty.
+          <b> Example:</b> Zero width images example:<br/>
+              <p align="center">
+               <img src="https://github.com/ravigithub09/HTML5/blob/master/0-width-img.PNG" width="1100" height="200" title="0-width-image">
+                </p>      
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
 https://www.admecindia.co.in/web-design/10-new-features-html5-examples/</b> 
