@@ -35,7 +35,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
      <br/> <b> Example:</b> Video example:</br>
       <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/video%20ex.PNG" width="700" height="150" title="video" >
-  </p><br/>   
+  </p>  
   
     <b> Example:</b> Audio example:</br>
     
