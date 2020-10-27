@@ -36,7 +36,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
       <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/video%20ex.PNG" width="700" height="150" title="video" >
   </p><br/>
-    ** In <b>video</b> tag we have some attributes like controls,autoplay,preload. we can also set height and width for video frame. Inside Video tag we have sub tag as                <b>source</b> in side that we need to give type of video files i.e. extension of the file. 
+    ** In <b>video</b> tag we have some attributes like controls,autoplay,preload. we can also set height and width for video frame. Inside Video tag we have sub tag as                <b>source</b> in side that we need to give type of video files i.e. extension of the file. <br/>
        <b>Example:</b>
        
        <video preload autoplay controls>
@@ -44,6 +44,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
         </video>
   
     <b> Example:</b> Audio example:</br>
+    
       <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/Audio%20ex.PNG" width="700" height="150" title="Audio" >
     </p>
