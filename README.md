@@ -57,7 +57,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
       </p>
       
   4. <b>canvas</b><br/>
-     Canvas is a tag of HTML which is newly introduced in HTML5. It is used to draw the images on the fly. It can be used for visual images, rendering graphs, game graphics.         <br/>
+     Canvas is a tag of HTML which is newly introduced in HTML5. It is used to draw the images on the fly. It can be used for visual images, rendering graphs, game graphics. Mostly in canvas we do coding in .js file only         <br/>
      <b> Example:</b> Canvas example:</br>
      <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/canvas%20ex.PNG" width="500" height="200" title="canvas">
@@ -150,7 +150,14 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
                 </p>      
 # Reference
 <b>https://acadgild.com/blog/html5-new-features <br/>
-https://www.admecindia.co.in/web-design/10-new-features-html5-examples/</b> 
+https://www.admecindia.co.in/web-design/10-new-features-html5-examples/</b> <br/>
+
+<b>Note:</b> Understanding between relative and absolute position:<br/>
+https://dzone.com/articles/css-position-relative-vs-position-absolute#:~:text=Static%20%2D%20this%20is%20the%20default,to%20its%20first%20positioned%20parent.
+
+# Points to be remember
+ 1. Add css file in html: <b> link rel="stylesheet" href="css_file_location"</b>
+ 2. Add js file in html: <b>script src="js_file_location"</b>
   
   
  
