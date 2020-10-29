@@ -61,7 +61,7 @@ The other technology that gets associated with HTML5 is WebGL. WebGL makes it po
      <b> Example:</b> Canvas example:</br>
      <p align="center">
      <img src="https://github.com/ravigithub09/HTML5/blob/master/canvas%20ex.PNG" width="500" height="200" title="canvas">
-      </p>
+      </p>      
       
   5. <b>footer</b><br/>
      Footer is a tag, used to define the footer of a document or a section. Usually it contains the information about author and copyright etc. Address tag may be used to mark        up the contact information in the footer.<br/>
